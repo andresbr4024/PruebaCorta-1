@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Capa_Acceso_Datos/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Capa_Acceso_Datos.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa_Acceso_Datos.dll": {}
+        }
+      },
+      "Capa_Logica/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Capa_Acceso_Datos": "1.0.0",
+          "Capa_Modelo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Capa_Logica.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa_Logica.dll": {}
+        }
+      },
+      "Capa_Modelo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Capa_Modelo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Capa_Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capa_Acceso_Datos/1.0.0": {
+      "type": "project",
+      "path": "../Capa_Acceso_Datos/Capa_Acceso_Datos.csproj",
+      "msbuildProject": "../Capa_Acceso_Datos/Capa_Acceso_Datos.csproj"
+    },
+    "Capa_Logica/1.0.0": {
+      "type": "project",
+      "path": "../Capa_Logica/Capa_Logica.csproj",
+      "msbuildProject": "../Capa_Logica/Capa_Logica.csproj"
+    },
+    "Capa_Modelo/1.0.0": {
+      "type": "project",
+      "path": "../Capa_Modelo/Capa_Modelo.csproj",
+      "msbuildProject": "../Capa_Modelo/Capa_Modelo.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Capa_Logica >= 1.0.0",
+      "Capa_Modelo >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\andre\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Presentacion\\Capa_Presentacion.csproj",
+      "projectName": "Capa_Presentacion",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Presentacion\\Capa_Presentacion.csproj",
+      "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Presentacion\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Logica\\Capa_Logica.csproj": {
+              "projectPath": "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Logica\\Capa_Logica.csproj"
+            },
+            "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Modelo\\Capa_Modelo.csproj": {
+              "projectPath": "C:\\Users\\andre\\source\\repos\\caca\\Lista_Simple\\Capa_Modelo\\Capa_Modelo.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

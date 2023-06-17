@@ -1,0 +1,61 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Capa_Presentacion/1.0.0": {
+        "dependencies": {
+          "Capa_Logica": "1.0.0",
+          "Capa_Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Capa_Presentacion.dll": {}
+        }
+      },
+      "Capa_Acceso_Datos/1.0.0": {
+        "runtime": {
+          "Capa_Acceso_Datos.dll": {}
+        }
+      },
+      "Capa_Logica/1.0.0": {
+        "dependencies": {
+          "Capa_Acceso_Datos": "1.0.0",
+          "Capa_Modelo": "1.0.0"
+        },
+        "runtime": {
+          "Capa_Logica.dll": {}
+        }
+      },
+      "Capa_Modelo/1.0.0": {
+        "runtime": {
+          "Capa_Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Capa_Presentacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capa_Acceso_Datos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capa_Logica/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Capa_Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Logica.deps.json
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Logica.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Logica.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Acceso_Datos.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Acceso_Datos.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\bin\Debug\net6.0\Capa_Modelo.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.AssemblyInfo.cs
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.csproj.CopyComplete
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\refint\Capa_Logica.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\Capa_Logica.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Logica\obj\Debug\net6.0\ref\Capa_Logica.dll

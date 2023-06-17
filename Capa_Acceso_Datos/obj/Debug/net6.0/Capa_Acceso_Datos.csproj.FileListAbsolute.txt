@@ -1,0 +1,12 @@
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\bin\Debug\net6.0\Capa_Acceso_Datos.deps.json
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\bin\Debug\net6.0\Capa_Acceso_Datos.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\bin\Debug\net6.0\Capa_Acceso_Datos.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.AssemblyInfo.cs
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\refint\Capa_Acceso_Datos.dll
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\Capa_Acceso_Datos.pdb
+C:\Users\andre\source\repos\caca\Lista_Simple\Capa_Acceso_Datos\obj\Debug\net6.0\ref\Capa_Acceso_Datos.dll
